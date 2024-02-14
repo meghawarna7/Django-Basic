@@ -1,0 +1,30 @@
+
+python 
+
+python --version   
+or
+python -V
+
+pip
+ 
+
+set enviramental path pythaon also script pip(two paths)
+
+pip install virtualenv
+
+virtualenv env
+
+env\scripts\activate
+
+pip install django
+
+django-admin
+
+django-admin startproject pansala
+
+cd pansala
+python manage.py runserver
+
+
+in another terinal,
+python manage.py startapp base
